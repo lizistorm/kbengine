@@ -26,3 +26,15 @@ ehthumbs.db
 Thumbs.db
 
 *.pyc
+kbe/src/libs/
+kbe/bin/
+kbe/src/.vs/
+kbe/tools/server/guiconsole/guiconsole.lib
+kbe/src/lib/dependencies/apr/include/apr_escape_test_char.h
+kbe/src/lib/dependencies/apr/include/apr.h
+kbe/src/lib/dependencies/apr/LibD/gen_test_char.obj
+kbe/src/lib/dependencies/apr-util/include/private/apu_select_dbm.h
+kbe/src/lib/dependencies/apr-util/include/private/apu_config.h
+kbe/src/lib/dependencies/apr-util/include/apu_want.h
+kbe/src/lib/dependencies/apr-util/include/apr_ldap.h
+kbe/src/lib/dependencies/apr-util/include/apu.h
